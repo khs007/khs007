@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=KUNWAR%20HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Learner%20·%20RAG%20Builder%20·%20Embedded%20Systems%20Explorer&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=KUNWAR%20HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Learning%20AI%20Systems·Building%20Useful%20Intelligence&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--     ANIMATED GIF BANNER — replace with your AE export     -->
@@ -19,8 +19,7 @@
 <!--                    TYPING SVG ANIMATION                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=620&lines=Building+RAG+pipelines+%26+Agentic+AI...;FastAPI+%2B+LangChain+%2B+ChromaDB+%2B+Neo4j;Diffusion+Models+from+Scratch+(DDPM);Creative+Tech+%E2%80%94+Blender+%7C+After+Effects;Open+to+Collabs+%7C+Lucknow%2C+IN+%E2%97%89)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Systems...;Machine+Learning+%7C+Deep+Learning+⚡;Training+RAG+Pipelines+%2B+AI+Agents;Building+Useful+Intelligence+with+GenAI;Embedded+Systems+%2B+AI+Experiments;Open+to+Collaboration+◉)](https://git.io/typing-svg)
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=khs007&color=00f5ff&style=for-the-badge&label=PROFILE+SCANS)
