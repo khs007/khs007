@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=KUNWAR%20HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Learning%20AI%20Systems·Building%20Useful%20Intelligence&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=KUNWAR%20HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Learning%20AI%20Systems%20·%20Building%20Useful%20Intelligence&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--     ANIMATED GIF BANNER — replace with your AE export     -->
@@ -30,7 +30,6 @@
 
 ## `// TECH ARSENAL`
 
-## `// TECH STACK`
 
 <p align="center">
 
@@ -69,7 +68,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| ** [⬡ CompanionBuddy](https://github.com/khs007/companion_buddy)** | RAG Study Assistant — PDF → Chat, Quiz, Flashcards | `RAG` `ChromaDB` `FastAPI` `Groq` |
+| **[⬡ CompanionBuddy](https://github.com/khs007/companion_buddy)** | RAG Study Assistant — PDF → Chat, Quiz, Flashcards | `RAG` `ChromaDB` `FastAPI` `Groq` |
 | **[⬡ FinGuard](https://github.com/khs007/FinGuard)** | AI Financial Assistant — Scam detection · Hindi NLP | `LangGraph` `Neo4j` `FastAPI` |
 | **[⬡ DDPM From Scratch](https://github.com/khs007/DDPM-From-Scratch-to-Pipeline)** | Diffusion math + HuggingFace U-Net pipeline | `PyTorch` `Diffusers` |
 | **[⬡ YT ChatBot](https://github.com/khs007/Yt_ChatBot)** | Ask any YouTube video questions via Chrome Extension | `FastAPI` `LLM` |
@@ -78,13 +77,17 @@
 
 ## `// GITHUB STATS`
 
+## `// GITHUB STATS`
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khs007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=040d14&title_color=00f5ff&icon_color=39ff14&text_color=ffffff)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khs007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khs007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=040d14&title_color=00f5ff&text_color=ffffff)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khs007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
-![Streak](https://streak-stats.demolab.com?user=khs007&theme=matrix&hide_border=true&background=040d14&ring=00f5ff&fire=39ff14&currStreakLabel=00f5ff)
+<img width="70%" src="https://streak-stats.demolab.com?user=khs007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF"/>
+
+</div>
 
 </div>
 
@@ -109,7 +112,15 @@
 </div>
 
 ---
+## `// ENGINEERING PHILOSOPHY`
 
+```bash
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
 
 ## `// CONNECT`
 
@@ -127,8 +138,6 @@
 ---
 
 <div align="center">
-
-`◈ RAG Systems` &nbsp; `◈ Agentic AI` &nbsp; `◈ Diffusion Models` &nbsp; `◈ Creative Tech`
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=120&section=footer)
 
