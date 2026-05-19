@@ -79,6 +79,8 @@
 
 ## `// GITHUB STATS`
 
+## `// GITHUB STATS`
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khs007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF"/>
@@ -89,7 +91,6 @@
 
 </div>
 
-</div>
 
 ---
 
