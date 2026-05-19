@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Full%20Stack%20·%20Creative%20Technologist&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:071624,70:00f5ff,100:000000&height=220&section=header&text=KUNWAR%20HIMITESH%20SAHAI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Learner%20·%20RAG%20Builder%20·%20Embedded%20Systems%20Explorer&descSize=16&descAlignY=58&descColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--     ANIMATED GIF BANNER — replace with your AE export     -->
@@ -59,10 +59,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ CompanionBuddy](https://github.com/khs007/companion_buddy)** | RAG Study Assistant — PDF → Chat, Quiz, Flashcards | `RAG` `ChromaDB` `FastAPI` `Groq` |
-| **[ FinGuard](https://github.com/khs007/FinGuard)** | AI Financial Assistant — Scam detection · Hindi NLP | `LangGraph` `Neo4j` `FastAPI` |
-| **[ DDPM From Scratch](https://github.com/khs007/DDPM-From-Scratch-to-Pipeline)** | Diffusion math + HuggingFace U-Net pipeline | `PyTorch` `Diffusers` |
-| **[ YT ChatBot](https://github.com/khs007/Yt_ChatBot)** | Ask any YouTube video questions via Chrome Extension | `FastAPI` `LLM` |
+| ** [⬡ CompanionBuddy](https://github.com/khs007/companion_buddy)** | RAG Study Assistant — PDF → Chat, Quiz, Flashcards | `RAG` `ChromaDB` `FastAPI` `Groq` |
+| **[⬡ FinGuard](https://github.com/khs007/FinGuard)** | AI Financial Assistant — Scam detection · Hindi NLP | `LangGraph` `Neo4j` `FastAPI` |
+| **[⬡ DDPM From Scratch](https://github.com/khs007/DDPM-From-Scratch-to-Pipeline)** | Diffusion math + HuggingFace U-Net pipeline | `PyTorch` `Diffusers` |
+| **[⬡ YT ChatBot](https://github.com/khs007/Yt_ChatBot)** | Ask any YouTube video questions via Chrome Extension | `FastAPI` `LLM` |
 
 ---
 
@@ -100,9 +100,6 @@
 
 ---
 
-## `// CONNECT`
-
-<div align="center">
 
 ## `// CONNECT`
 
@@ -114,11 +111,8 @@
 
 [![Email](https://img.shields.io/badge/Email-himitesh007@gmail.com-ffb300?style=for-the-badge&logo=gmail)](mailto:himitesh007@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/AI_Command_Center-LIVE-ff2d55?style=for-the-badge)](https://khs007.github.io/github-profile/)
-
 </div>
 
-</div>
 
 ---
 
