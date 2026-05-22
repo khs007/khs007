@@ -71,14 +71,10 @@
 ## `// GITHUB STATS`
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khs007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khs007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=khs007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF"/>
 
 </div>
-
 
 ---
 
